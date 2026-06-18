@@ -2,7 +2,7 @@
 
 A Claude Code Skill that enables Claude to rebuild websites, mockups, screenshots, and design briefs as real Elementor pages on WordPress using the Elementor MCP server.
 
-Built for the Elementor MCP project by Mian Shahzad Raza, this skill teaches Claude how to create pixel-perfect, SEO-friendly, and fully responsive Elementor pages using native Elementor widgets rather than raw HTML.
+Built for the [Elementor MCP](https://github.com/msrbuilds/elementor-mcp) project by Mian Shahzad Raza, this skill teaches Claude how to create pixel-perfect, SEO-friendly, and fully responsive Elementor pages using native Elementor widgets rather than raw HTML.
 
 ## What This Skill Does
 
