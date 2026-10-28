@@ -213,3 +213,7 @@ https://github.com/msrbuilds/elementor-mcp
 ### Skill Author
 
 Created as a Claude Code Skill to provide structured guidance for using Elementor MCP effectively and producing professional Elementor websites using native Elementor architecture.
+
+## License
+
+[MIT](LICENSE) © Muhammad Faizan ([Nowdigiverse](https://nowdigiverse.com))
